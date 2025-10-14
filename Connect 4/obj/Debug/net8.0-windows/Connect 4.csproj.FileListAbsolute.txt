@@ -1,0 +1,16 @@
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\bin\Debug\net8.0-windows\Connect 4.exe
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\bin\Debug\net8.0-windows\Connect 4.deps.json
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\bin\Debug\net8.0-windows\Connect 4.runtimeconfig.json
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\bin\Debug\net8.0-windows\Connect 4.dll
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\bin\Debug\net8.0-windows\Connect 4.pdb
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.csproj.GenerateResource.cache
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.AssemblyInfoInputs.cache
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.AssemblyInfo.cs
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.dll
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\refint\Connect 4.dll
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.pdb
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect 4.genruntimeconfig.cache
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\ref\Connect 4.dll
+F:\iti\.net full stack\c# advanced\final project\Connect 4\Connect 4\obj\Debug\net8.0-windows\Connect_4.Form1.resources
